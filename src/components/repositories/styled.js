@@ -22,6 +22,7 @@ padding: 8px 8px 0;
 user-select: none;
 cursor: pointer;
 z-index: 0;
+box-shadow: 0 0 0 rgba(0, 0, 0, 0.5);
 
 &:focus {
     outline: none;
@@ -35,6 +36,7 @@ z-index: 0;
     border-bottom-left-radius: 0px;
     border-bottom-right-radius: 0px;
     border-bottom: 10px solid white;
+    box-shadow: 5px -5px 5px -5px #333;
 }
 
 `;
@@ -48,6 +50,7 @@ display: none;
 margin-top: -9px;
 border-radius: 8px;
 z-index: -1;
+box-shadow: 0 0 0.5em rgba(0, 0, 0, 0.5);
 
 &.is-selected {
     display: block;
