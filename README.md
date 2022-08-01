@@ -44,5 +44,5 @@ For more information about me checkout my [github](https://github.com/GuilhermeH
 
 ## 🏗️ Demo
 
-you can check the project here and test by yourself [Github Interface API](/https://dio-github-interface.vercel.app//).
+you can check the project here and test by yourself [Github Interface API](https://dio-github-interface.vercel.app).
 
